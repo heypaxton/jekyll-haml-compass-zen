@@ -1,0 +1,6 @@
+$zen-column-count: 12;
+$zen-gutter-width: 20px;
+
+.container {
+  @include zen-grid-container;
+}
